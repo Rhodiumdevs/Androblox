@@ -25,7 +25,7 @@
 
 ## Screenshots
 
-![Home Screen](screenshots/home_screen.png)  
+![Home Screen](home.png)  
 *Home screen with instance list and welcome card.*
 
 ![Create Instance Dialog](screenshots/create_instance.png)  
