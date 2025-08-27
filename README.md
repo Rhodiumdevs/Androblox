@@ -28,15 +28,17 @@
 ![Home Screen](home.png)  
 *Home screen with instance list and welcome card.*
 
-![Create Instance Dialog](screenshots/create_instance.png)  
+![Create Instance Dialog](inst.png)  
 *Dialog for creating a new Roblox instance.*
 
 ---
 
 ## Installation
+Here If Your Device Is 64 Bit Then Click The Link Below
 
-1. Clone the repository:
 
-```bash
-git clone https://github.com/Rhodiumdevs/Androblox/tree/main
-cd Androblox
+
+
+
+
+If Your Device Is 32 Bit Then Clikc The Link Below
