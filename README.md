@@ -38,5 +38,5 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Androblox.git
+git clone https://github.com/Rhodiumdevs/Androblox/tree/main
 cd Androblox
