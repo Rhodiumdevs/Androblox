@@ -37,7 +37,7 @@
 ## Installation
 Here If Your Device Is 64 Bit Then Click The Link Below
 
-![Apk For 64 Bit](https://github.com/Rhodiumdevs/Androblox/blob/main/Androblox(Armv7-a).apk)
+![Apk For 64 Bit](https://github.com/RowerStudios/Androblox/raw/refs/heads/main/Androblox(x64%20Build).apk)
 
 
 
