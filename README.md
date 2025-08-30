@@ -45,4 +45,4 @@ Here If Your Device Is 64 Bit Then Click The Link Below
 If Your Device Is 32 Bit Then Clikc The Link Below
 
 
-![Apk For 32 Bit](https://github.com/Rhodiumdevs/Androblox/blob/main/Androblox(Armv7-a).apk)
+![Apk For 32 Bit](https://github.com/RowerStudios/Androblox/raw/refs/heads/main/Androblox(Armv7-a).apk)
